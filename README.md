@@ -11,3 +11,4 @@
   * GitHub 
   * GitLab
   * Bitbucket
+##### Виконав: Трофімчук Микола 
